@@ -6,7 +6,7 @@
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/gearmagicru/gm-be-config-page.svg)](https://packagist.org/packages/gearmagicru/gm-be-config-page)
 [![Total Downloads](https://img.shields.io/packagist/dt/gearmagicru/gm-be-config-page.svg)](https://packagist.org/packages/gearmagicru/gm-be-config-page)
-[![Author](https://img.shields.io/badge/author-anton.tivonenko@gpage.com-blue.svg)](pageto:anton.tivonenko@gpage)
+[![Author](https://img.shields.io/badge/author-anton.tivonenko@gmail.com-blue.svg)](mailto:anton.tivonenko@gmail.com)
 [![Source Code](https://img.shields.io/badge/source-gearmagicru/gm--be--config--page-blue.svg)](https://github.com/gearmagicru/gm-be-config-page)
 [![Software page](https://img.shields.io/badge/page-MIT-brightgreen.svg)](https://github.com/gearmagicru/gm-be-config-page/blob/master/page)
 ![Component type: extension](https://img.shields.io/badge/component%20type-extension-green.svg)
