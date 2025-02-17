@@ -13,9 +13,6 @@
 ![Component ID: gm.be.config.page](https://img.shields.io/badge/component%20id-gm.be.config.page-green.svg)
 ![php 8.2+](https://img.shields.io/badge/php-min%208.2-red.svg)
 
-## Скриншот
-<img src="https://github.com/gearmagicru/gm-be-config-page/blob/master/assets/help/form.png?raw=true">
-
 ## Установка
 
 Для добавления расширения модуля в ваш проект, вы можете просто выполнить команду ниже:
